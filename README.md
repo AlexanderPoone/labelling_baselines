@@ -1,4 +1,5 @@
-TODO: Refactor into an interactive Gradio app.
+> [!WARNING]
+> These are weak baseline models for the multilabeling task, designed primarily to serve as benchmarks for superior models.
 
 # Labelling baselines
 Pretrained lightweight baseline models on some large corpora (Wikipedia, [OSCAR](https://github.com/oscar-project/ungoliant), or Common Crawl):
