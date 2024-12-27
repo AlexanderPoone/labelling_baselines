@@ -15,6 +15,6 @@ Pretrained lightweight baseline models on some large corpora (Wikipedia, [OSCAR]
 * uk: [youscan/ukr-roberta-base](https://github.com/youscan/language-models), by a company named YouScan from Kyiv
 * zh: bert-base-chinese
 
-The number at the end indicates that the percentage of the scraped and cleaned data (e.g., `_80` means `80%`) is used for training the model.
+The number at the end indicates that the percentage of the scraped and cleaned data (e.g., `_80` means `80%`) is used as training data.
 
 It all boils down to `(time, country, evt, category), sent=(positive|negative|controversial|apathy))`.
