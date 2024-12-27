@@ -15,4 +15,6 @@ Pretrained lightweight baseline models on some large corpora (Wikipedia, [OSCAR]
 * uk: [youscan/ukr-roberta-base](https://github.com/youscan/language-models), by a company named YouScan from Kyiv
 * zh: bert-base-chinese
 
+The number at the end (e.g., `_80`) means 80% of the scaped and cleaned data is used for training the model.
+
 It all boils down to `(time, country, evt, category), sent=(positive|negative|controversial|apathy))`.
